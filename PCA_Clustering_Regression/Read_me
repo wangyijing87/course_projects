@@ -1,0 +1,5 @@
+The following analytical approaches are taken in our analysis:
+● Data Preparation: Prepare raw data for analysis
+● Principal Component Analysis (PCA): Perform dimension reduction techniques to identify a new set of orthogonal variables
+● Cluster Analysis: Classification of wines based on physicochemical properties
+● Regression Analysis: Prediction of quality ranking from the chemical properties of the wines using Ordinal Multinomial Logistic Regression
